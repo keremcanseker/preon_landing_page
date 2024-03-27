@@ -1,4 +1,4 @@
-# Kullanılan Stack : React - tailwind - typescript - jquery, vite , ek olarak bir grid react grid paketi kullanılmıştır
+# Kullanılan Stack : React - tailwind - typescript - jquery, vite , ek olarak react grid paketi kullanılmıştır
 
 Başlangıç olarak hızlı olması için figma to code tool olan locafy ai kullandım gördüğünüz garip ve küsüratlı ölçekler ondan kaynaklıdır.
 Daha önce sccss ile tecrübem oldu ve kullanabilirim fakat yine hızlı olması için daha çok tecrübem olan tailwindi kullandım.
